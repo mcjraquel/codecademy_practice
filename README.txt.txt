@@ -1,1 +1,0 @@
-Hello. This is a repo where I put all my finished exercises from Codecademy.
